@@ -1,0 +1,12 @@
+
+.update-service form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.update-service form input, textarea{
+    width: 45%;
+    margin-top: 10px;
+}

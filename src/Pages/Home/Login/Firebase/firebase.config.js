@@ -1,4 +1,4 @@
-console.log(process.env);
+//console.log(process.env);
 const firebaseConfig = {
     apiKey: "AIzaSyCn28-g-nBP7euFMISq-eiwUCHWZHLgmvk",
     authDomain: "genius-car-service-cf6c5.firebaseapp.com",
